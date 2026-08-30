@@ -1,0 +1,8 @@
+/*
+symbols/.local/
+
+!symbols/
+!.gitignore
+# Shared local-dev RSA so the published RSProx proxy-targets.yaml modulus works after clone.
+!game.key
+!client.key
